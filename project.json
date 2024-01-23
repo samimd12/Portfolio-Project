@@ -1,0 +1,52 @@
+{
+    "projects" : [
+        {
+            "img": "/images/res.jpg",
+            "project_name" : "Restaurent Project",
+            "Gitimg" : "/images/github.png",
+            "Netimg" : "/images/netlify-logo-png-transparent.png",
+            "Gitlink" : "https://github.com/samimd12/Hungry-Restaurent",
+            "NetlifyLink" : "https://hungryrestaurent.netlify.app/"
+        },
+        {
+            "img": "/images/gym2.jpg",
+            "project_name" : "GYM Project",
+            "Gitimg" : "/images/github.png",
+            "Netimg" : "/images/netlify-logo-png-transparent.png",
+            "Gitlink" : "https://github.com/samimd12/GymSam",
+            "NetlifyLink" : "https://gymsam.netlify.app"
+        },
+        {
+            "img": "/images/bis.jpg",
+            "project_name" : "Bootstrap Project",
+            "Gitimg" : "/images/github.png",
+            "Netimg" : "/images/netlify-logo-png-transparent.png",
+            "Gitlink" : "https://github.com/samimd12/Bootstrap-P",
+            "NetlifyLink" : "https://snacksshop.netlify.app"
+        },
+        {
+            "img": "/images/weather.jpg",
+            "project_name" : "Weather Project",
+            "Gitimg" : "/images/github.png",
+            "Netimg" : "/images/netlify-logo-png-transparent.png",
+            "Gitlink" : "https://github.com/samimd12/Weather-APP",
+            "NetlifyLink" : "https://weatherapplication01.netlify.app"
+        },
+        {
+            "img": "/images/music2.jpg",
+            "project_name" : "Music Project",
+            "Gitimg" : "/images/github.png",
+            "Netimg" : "/images/netlify-logo-png-transparent.png",
+            "Gitlink" : "https://github.com/samimd12/Music-Player",
+            "NetlifyLink" : "https://musicplayer46.netlify.app"
+        },
+        {
+            "img": "/images/form.jpg",
+            "project_name" : "Registrationform Project",
+            "Gitimg" : "/images/github.png",
+            "Netimg" : "/images/netlify-logo-png-transparent.png",
+            "Gitlink" : "https://github.com/samimd12/registrationform12",
+            "NetlifyLink" : "https://regvalidationform.netlify.app"
+        }
+    ]
+}
