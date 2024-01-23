@@ -529,12 +529,12 @@
     }
     
 }
-@media (max-width:450px){
+@media (max-width:425px){
     .right {
         width: 45%;
-        min-width: 425px;
+        min-width: 400px;
         color: white;
-        padding-right: 25px;
+        padding-right: 16px;
         padding-top: 20px;
         padding-bottom: 20px;
         padding-left: 0px;
@@ -551,6 +551,16 @@
         flex-wrap: wrap;
         margin-left: 15%;
         justify-content: center;
+    }
+    .containerr .boxs {
+        position: relative;
+        width: 400px;
+        height: 250px;
+    }
+    .containerr .imgBx {
+        left: 95px;
+        width: 55%;
+        top: 65px;
     }
     .college h3{
         font-size: 20px;
